@@ -1,0 +1,35 @@
+/* Inserta tu CSS aqui */
+.caja {
+	margin-bottom: 10px;
+}
+.box {
+	background-color: yellow;
+	width: 400px;
+	height: 125px;
+	border: 1px solid black;
+	display: block;
+}
+.box1,.box2,.box3{
+	display: inline-block;
+	margin: 13px;
+}
+.dos {
+	margin-bottom: 10px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.tres {
+	margin-bottom: 10px;
+	display: inline-block;
+	margin-top: 10px;
+}
+.cuatro{
+	margin-bottom: 10px;
+}
+.cuadrado {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	border: 1px solid black;
+}
